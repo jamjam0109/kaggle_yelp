@@ -127,3 +127,18 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# excel, csv files 
+data/
+*.xlsx
+*.csv
+
+# venv 
+Scripts/
+Lib/
+etc/
+share/
+tcl/
+Include/
+LICENSE.txt
+pyvenv.cfg
